@@ -1,0 +1,5 @@
+dotenv: .env
+networks:
+  default: local
+wallets:
+  from_key: ${PRIVATE_KEY}
